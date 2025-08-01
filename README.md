@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack
 
-- 💻 **Languages**: C#, JavaScript, SQL  
+- 💻 **Languages**: C#, Java, JavaScript, SQL  
 - 🌱 Currently learning: Python  
 - ⚙️ **Frameworks & Tools**: Unity, React Native, ASP.NET Core, NeDB, Git, Azure
 
